@@ -1,10 +1,15 @@
 <p align="center">
-  <a href="https://teacher.dev/">
-    <img src="https://teacher.dev/favicon.svg" alt="teacher.dev" width="96" />
-  </a>
+  <img src="./polaroids.png" alt="Polaroids of EdTech-a-thon 2026 in Atlanta, GA; Duncan and Elliot in Boston, MA; and Josh and Jess in Detroit, MI" width="640" />
 </p>
 
-<h1 align="center">teacher.dev</h1>
+<p align="center">
+  <a href="https://teacher.dev/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./wordmark-dark.png" />
+      <img src="./wordmark-light.png" alt="teacher.dev" width="400" />
+    </picture>
+  </a>
+</p>
 
 <p align="center"><strong>Building apps for teachers that solve real problems.</strong></p>
 
@@ -19,10 +24,6 @@
 ---
 
 teacher.dev is a 501(c)(3) education non-profit (formerly called BX Coding), wholly committed to providing free & accessible resources for teachers.
-
-<p align="center">
-  <img src="./polaroids.png" alt="Polaroids of EdTech-a-thon 2026 in Atlanta, GA; Duncan and Elliot in Boston, MA; and Josh and Jess in Detroit, MI" width="640" />
-</p>
 
 ## Every Day
 
