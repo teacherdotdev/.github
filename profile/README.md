@@ -20,6 +20,10 @@
 
 teacher.dev is a 501(c)(3) education non-profit (formerly called BX Coding), wholly committed to providing free & accessible resources for teachers.
 
+<p align="center">
+  <img src="./polaroids.png" alt="Polaroids of EdTech-a-thon 2026 in Atlanta, GA; Duncan and Elliot in Boston, MA; and Josh and Jess in Detroit, MI" width="640" />
+</p>
+
 ## Every Day
 
 We solve a teacher's problem every single day. Some days it's a brand-new tool, others it's an improvement to one teachers already use. Follow along on [teacher.dev/daily](https://teacher.dev/daily).
