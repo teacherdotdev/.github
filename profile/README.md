@@ -28,21 +28,6 @@ We solve a teacher's problem every single day. Some days it's a brand-new tool, 
 
 We've built free, accessible apps with teachers. Explore them, try them out, and share your feedback in the [app gallery](https://teacher.dev/apps). The code for each one lives in a repo here.
 
-## How we build apps
-
-Every app starts with an idea from a teacher, whether it's a comment on our social media or an email to [directors@teacher.dev](mailto:directors@teacher.dev).
-
-1. **We learn about the problem.** Depending on the complexity and scope of an idea, we'll reach out with more questions or to interview folks. If the idea is already clear enough, we get started right away.
-2. **We build a prototype.** We build the app using coding agents, describing both the high-level and detailed requirements.
-3. **We test.** We test internally with manual reviews. For larger or more complex apps, we also run betas with groups of teachers and domain experts.
-4. **We release it.** We host the app publicly, for free, and post about it!
-
-We use AI to build our apps. Using them doesn't: no AI runs when you visit or use our apps.
-
-## Our community
-
-Teachers and developers live in different worlds. At [EdTech-a-thon 2026](https://teacher.dev/events/edtech-a-thon-2026), we brought them together from July 20–22, virtually and in person in Atlanta, GA, for three days of collaboration, community, and problem solving. The first apps in our gallery were built there.
-
 ## Our team
 
 - **Duncan Johnson**, Director
