@@ -23,7 +23,7 @@
 
 ---
 
-teacher.dev is a 501(c)(3) education non-profit (formerly called BX Coding), wholly committed to providing free & accessible resources for teachers.
+teacher.dev is a 501(c)(3) education non-profit, wholly committed to providing free & accessible resources for teachers.
 
 ## Every Day
 
